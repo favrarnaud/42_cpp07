@@ -10,7 +10,7 @@
 #                                                                              #
 # **************************************************************************** #
 
-NAME			= template
+NAME			= iter
 INCLUDE			= ./include
 SRC_DIR			= src/
 OBJ_DIR			= obj/

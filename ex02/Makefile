@@ -10,7 +10,7 @@
 #                                                                              #
 # **************************************************************************** #
 
-NAME			= template
+NAME			= array
 INCLUDE			= ./include
 SRC_DIR			= src/
 OBJ_DIR			= obj/
